@@ -26,7 +26,7 @@ Gilet Jaune Coin 2.0 est donc basé sur une solution avec une blockchain central
 
 - L'écosystème Gilet Jaune Coin 2.0 permettra l’intégration de plusieurs blockchains. Comme plus
 de blockchains s’ajoutent à l'écosystème, le processus de consensus pour une blockchain individuelle évoluera afin d'inclure des validations croisées des blocs sur les autres chaînes comme illustré sur (ce graphique)
-![validations croisées](images/shema1.png)
+![validations croisées](shema1.png)
 
 ### c. Conclusion
 
