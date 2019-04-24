@@ -1,6 +1,10 @@
 # Gilet Jaune Coin 2.0
 
-> ### Pourquoi cette évolution:
+ ### - Pourquoi cette évolution?
+
+ ### - Comment la communauté va créer la blockchain 2.0?
+ 
+ ### - A quelles conditions la blockchain sera créé. 
 
 ## 1 Blockchain:
 
