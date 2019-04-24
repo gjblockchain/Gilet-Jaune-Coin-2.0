@@ -1,5 +1,7 @@
 # Gilet Jaune Coin 2.0
->
+
+> ### Pourquoi cette évolution:
+
 ## 1 Blockchain:
 
 Gilet Jaune Coin 2.0 est un nouveau protocole séparant la construction de blocs et le calcul de la preuve de travail par l'utilisation de chaînes latérales et l'allocation de masternodes dynamique. Ce protocole est basé sur un écosystème blockchain évolutive hautement optimisé gérée par une Intelligence Artificiel auto évolutive.
