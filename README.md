@@ -18,12 +18,12 @@ Gilet Jaune Coin 2.0 est donc basé sur une solution avec une blockchain central
 
 ### b. Développement futur
 
-- L'écosystème Equilibrium permettra l’intégration de plusieurs blockchains. Comme plus
+- L'écosystème Gilet Jaune Coin 2.0 permettra l’intégration de plusieurs blockchains. Comme plus
 de blockchains s’ajoutent à l'écosystème, le processus de consensus pour une blockchain individuelle évoluera afin d'inclure des validations croisées des blocs sur les autres chaînes comme illustré sur (ce graphique)
 
 ### c. Conclusion
 
-- La séparation de la puissance de calcul d'un côté et la composition des blocs de l'autre côté permet au système d'amener la probabilité de double dépense à un niveau exceptionnellement bas sans avoir besoin de nombreuses confirmations. Grâce à l'ajout d'une sidechain autorisant la récupération des frais de transaction, l'utilisateur bénéficie d'un système sans frais permettant d’exécuter des transactions rapides et sûres sans avoir besoin d'un tiers de confiance. Enfin, l'évolutivité et le développement futur d'Equilibrium sont réalisables dans la mesure où le système est destiné à devenir plus sûr, plus rapide et plus polyvalent à mesure qu'il se développe en utilisant plusieurs blockchains partageant une puissance de calcul commune.
+- La séparation de la puissance de calcul d'un côté et la composition des blocs de l'autre côté permet au système d'amener la probabilité de double dépense à un niveau exceptionnellement bas sans avoir besoin de nombreuses confirmations. Grâce à l'ajout d'une sidechain autorisant la récupération des frais de transaction, l'utilisateur bénéficie d'un système sans frais permettant d’exécuter des transactions rapides et sûres sans avoir besoin d'un tiers de confiance. Enfin, l'évolutivité et le développement futur d'Gilet Jaune Coin 2.0 sont réalisables dans la mesure où le système est destiné à devenir plus sûr, plus rapide et plus polyvalent à mesure qu'il se développe en utilisant plusieurs blockchains partageant une puissance de calcul commune.
 
  ## 2 AI:
  
