@@ -1,4 +1,4 @@
-# Gilet-Jaune-Coin-2.0
+# Gilet Jaune Coin 2.0
 >
 ## 1 Blockchain:
 
