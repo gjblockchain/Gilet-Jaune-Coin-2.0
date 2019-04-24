@@ -4,7 +4,7 @@
 
  ### - Comment la communauté va créer la blockchain 2.0?
  
- ### - A quelles conditions la blockchain sera créé. 
+ ### - A quelles conditions la blockchain sera créé? 
 
 ## 1 Blockchain:
 
