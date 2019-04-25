@@ -33,7 +33,15 @@ de blockchains s’ajoutent à l'écosystème, le processus de consensus pour un
 - La séparation de la puissance de calcul d'un côté et la composition des blocs de l'autre côté permet au système d'amener la probabilité de double dépense à un niveau exceptionnellement bas sans avoir besoin de nombreuses confirmations. Grâce à l'ajout d'une sidechain autorisant la récupération des frais de transaction, l'utilisateur bénéficie d'un système sans frais permettant d’exécuter des transactions rapides et sûres sans avoir besoin d'un tiers de confiance. Enfin, l'évolutivité et le développement futur du Gilet Jaune Coin 2.0 sont réalisables dans la mesure où le système est destiné à devenir plus sûr, plus rapide et plus polyvalent à mesure qu'il se développe en utilisant plusieurs blockchains partageant une puissance de calcul commune.
 
  ## 2 AI:
- 
+
+L'IA et la Blockchain le partage des données.
+
+Une base de données décentralisée souligne l'importance du partage de données entre plusieurs clients sur un réseau particulier. De même, l'intelligence artificielle repose en grande partie sur de grandes données, et plus encore sur le partage des données. Avec plus de données ouvertes à analyser, la prédiction et l'évaluation des machines sont considérées comme plus correctes, et les algorithmes générés sont plus fiables.
+
+Large-Scale Data Management Mechanism
+
+Même après la mise à disposition des données, leur gestion est un autre obstacle à l'échelle. La quantité de données actuellement disponibles est estimée à 1,3 zettaoctets. Il existe un sous-domaine de l'intelligence artificielle connu sous le nom d'intelligence générale artificielle qui peut être modélisé comme un système de contrôle de rétroaction. Cette fonction aide les agents autonomes à mieux interagir avec l'environnement physique.
+
 ### a. Reseau neuronal: 
 
 - Un réseau de neurones est en général composé d'une succession de couches dont chacune prend ses entrées sur les sorties de la précédente. Chaque couche (i) est composée de Ni neurones, prenant leurs entrées sur les Ni-1 neurones de la couche précédente. À chaque synapse est associé un poids synaptique, de sorte que les Ni-1 sont multipliés par ce poids, puis additionnés par les neurones de niveau i, ce qui est équivalent à multiplier le vecteur d'entrée par une matrice de transformation. Mettre l'une derrière l'autre les différentes couches d'un réseau de neurones reviendrait à mettre en cascade plusieurs matrices de transformation et pourrait se ramener à une seule matrice, produit des autres, s'il n'y avait à chaque couche, la fonction de sortie qui introduit une non linéarité à chaque étape. Ceci montre l'importance du choix judicieux d'une bonne fonction de sortie : un réseau de neurones dont les sorties seraient linéaires n'aurait aucun intérêt.
